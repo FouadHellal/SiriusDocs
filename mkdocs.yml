@@ -1,0 +1,19 @@
+site_name: Sirius Solutions Documentation
+nav:
+  - Home: index.md
+  - Implementation: implementation.md
+  - Conception: conception.md
+  - Modules:
+      - Network Topology Mapper (NTM): modules/ntm.md
+      - Network Inventory Management (NIM): modules/nim.md
+      - Network Device Manager (NDM): modules/ndm.md
+      - Network Alerting System (NAS): modules/nas.md
+      - Network Endpoint Insight (NEI): modules/nei.md
+      - Intent-Based Networking (IBN): modules/ibn.md
+      - Quick Threat Intervention (QTI): modules/qti.md
+  - About: about.md
+  - license: license.md
+theme:
+  name: material
+  logo: img/logo.png        # Affiché en haut à gauche
+  favicon: img/favicon.ico  # Affiché dans l'onglet du navigateur
