@@ -1,5 +1,5 @@
 site_name: Sirius Solutions Documentation
-site_url: https://docs.sirius-technologies.me/
+site_url: https://docs.sirius-solutions.me/
 
 nav:
   - Home: index.md
