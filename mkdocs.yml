@@ -1,4 +1,6 @@
 site_name: Sirius Solutions Documentation
+site_url: https://docs.sirius-technologies.me/
+
 nav:
   - Home: index.md
   - Implementation: implementation.md
